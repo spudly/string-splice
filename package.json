@@ -54,6 +54,6 @@
   "author": "Stephen John Sorensen <shuoink@gmail.com>",
   "sideEffects": false,
   "dependencies": {
-    "@spudly/curry": "0.0.0"
+    "@spudly/curry": "1.0.0"
   }
 }
